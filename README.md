@@ -21,8 +21,6 @@ This project aims to classify stock price movement (up/down) based on historical
 
 ---
 
-## 📂 Project Structure
-
 <pre> ## 📂 Project Structure ``` stock-price-classifier/ │ ├── data/ # Downloaded raw & cleaned stock data ├── notebooks/ # Jupyter notebooks for EDA and experiments ├── models/ # Saved models or scripts ├── results/ # Accuracy plots, confusion matrices, etc. └── README.md # Project overview ``` </pre>
 
 ## ✅ Current Status
