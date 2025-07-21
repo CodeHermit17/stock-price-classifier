@@ -36,12 +36,12 @@ This project aims to **predict whether a stock’s closing price will increase o
 ## 📁 Project Structure
 
 stock-price-classifier/
-├── data/ # Raw & processed stock data (CSV)
-├── src/ # Custom ML modules & training pipeline
-├── models/ # Saved weights (theta.npy)
-├── results/ # Accuracy & loss plots
-├── README.md
-└── requirements.txt
+- data/ # Raw & processed stock data (CSV)
+- src/ # Custom ML modules & training pipeline
+- models/ # Saved weights (theta.npy)
+- results/ # Accuracy & loss plots
+- README.md
+- requirements.txt
 
 ---
 
