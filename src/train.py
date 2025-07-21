@@ -16,7 +16,7 @@ def smooth(data, weight=0.9):
         last = smoothed_val
     return smoothed
 
-FILE_PATH = "/mnt/c/Users/kashy/Documents/Code/Projects/stock-price-classifier/data/processed/HDFCBANK.NS.csv"
+FILE_PATH = "/home/kp17/Code/Projects/stock-price-classifier/data/processed/HDFCBANK.NS.csv"
 LEARNING_RATES = [0.001, 0.002, 0.003]
 EPOCHS = 1000
 
